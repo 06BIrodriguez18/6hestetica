@@ -1,0 +1,139 @@
+.{
+padding: ; 0;
+margin: ; 0;
+box-sizing: border box;
+}
+.body{
+    font-family: 'Trebucher MS', 'Licida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
+}
+.header{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: colum;
+    padding: 1px 0;
+}
+.logo img{
+    align-items: center;
+    width: 100px;
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    background: #ee95ff;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 60px;
+    color: black;
+}
+.dani1{
+    background-image: url("../img/imagen1.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.dani{
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.rocio h1{
+    color: black;
+}
+.titulo-gabriela h1{
+    color: black;
+}
+.btn_luis a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    background: #eabfff;
+}
+.banner-color{
+    margin-top: 10px;
+    background-color: #f4d5ff;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.contenido h5{
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+.contenido p{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.detalles-informacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.información{
+    padding: 10px 20px;
+}
+.información img{
+    width: 500px;
+}
+.información h5{
+    color: black;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 12px;
+}
+.información h4{
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.información p{
+    color: black;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+.boton{
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px;
+    background: rgba(0,0,0,0.47);
+}
+.footer{
+    background-color: #f4d5ff;
+    height: 350px;
+}
+.detalles-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0;
+}
+.detalles h3{
+    color: black;
+    margin-bottom: 10px;
+}
+.detalles p{
+    color: black;
+}
+.JAJAJAJAJAXD{
+    background-color: #f4d5ff;
+}
+.JAJAJAJAJAXD p{
+    color: black;
+    text-align: center;
+}
